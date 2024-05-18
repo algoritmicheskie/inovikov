@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 50px;
+}
+
+
+header{
+position: fixed;
+top:0px;
+height: 50px;
+width: 100%;
+background-color: #34aeeb;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+p{
+    margin-left:5px ;
+}
+
+h1{
+text-align: center;
+text-decoration: underline;
+}
+ul{
+text-decoration: underline;
+
+}
+
+p{
+text-decoration: underline;
+
+}
+ol{
+text-decoration: underline;
+
+}   
